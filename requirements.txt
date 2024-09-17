@@ -1,0 +1,28 @@
+aiofiles
+dill== 0.3.7
+dnspython== 2.6.1
+database-connect== 0.1.66
+Flask== 2.3.3
+httptools== 0.6.1 
+imblearn== 0.0 
+ipykernel== 6.25.1
+jinja2== 3.1.2
+mypy-boto3-s3==1.24.76
+pip-chill== 1.0.3
+pymongo== 4.8.0
+python-dotenv== 1.0.0
+python-multipart== 0.0.6
+seaborn== 0.12.2 
+types-s3transfer== 0.6.1
+uvicorn== 0.22.0
+watchfiles== 0.19.0
+websockets== 11.0.3
+wincertstore== 0.2
+xgboost== 1.7.6
+neuro-mf== 0.0.5
+boto3== 1.28.31
+
+
+
+
+-e.

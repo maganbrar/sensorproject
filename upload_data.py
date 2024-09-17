@@ -9,7 +9,7 @@ uri="mongodb+srv://magan:1234@cluster0.j2rs4.mongodb.net/?retryWrites=true&w=maj
 client = MongoClient(uri)
 
 #create database name and collection name
-DATABASE_NAME="pwskills"
+DATABASE_NAME="sensordatabase"
 COLLECTION_NAME='waferfault'
 
 df=pd.read_csv("D:\sensorproject\notebooks\wafer_23012020_041211.csv")
